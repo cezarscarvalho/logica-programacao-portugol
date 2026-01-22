@@ -2,7 +2,7 @@
 
 # Algoritmos e Programação Estruturada - Gestão de TI
 
-Este repositório contém os projetos práticos desenvolvidos durante o primeiro semestre da graduação em Gestão da Tecnologia da Informação. O foco principal foi o desenvolvimento da lógica de programação e a implementação de algoritmos utilizando pseudocódigo.
+Este repositório contém o projeto prático desenvolvidos durante o primeiro semestre da graduação em Gestão da Tecnologia da Informação. O foco principal foi o desenvolvimento da lógica de programação e a implementação de algoritmos utilizando pseudocódigo.
 
 ## 🎯 Objetivos do Projeto
 * Compreender e aplicar a lógica de programação estruturada.
