@@ -1,27 +1,60 @@
 # logica-programacao-portugol
 
-# Algoritmos e Programação Estruturada - Gestão de TI
+# Lógica de Programação e Algoritmos: Fundamentos de Gestão de TI
 
-Este repositório contém o projeto prático desenvolvidos durante o primeiro semestre da graduação em Gestão da Tecnologia da Informação. O foco principal foi o desenvolvimento da lógica de programação e a implementação de algoritmos utilizando pseudocódigo.
+Este repositório consolida as práticas de lógica estruturada desenvolvidas durante o curso de Gestão de Tecnologia da Informação. O objetivo é demonstrar a capacidade de transpor problemas de negócio para soluções computacionais utilizando pseudocódigo.
 
 ## 🎯 Objetivos do Projeto
-* Compreender e aplicar a lógica de programação estruturada.
-* Utilizar a ferramenta **Portugol WebStudio** para elaboração e teste de algoritmos.
+* Desenvolver o raciocínio lógico e estruturado.
 * Implementar estruturas condicionais e de repetição.
-
-## 💻 Algoritmos Desenvolvidos
-
-### 1. Verificação de Maioridade
-* **Descrição:** Algoritmo que recebe a idade do usuário e informa se ele é "Maior de idade" (idade ≥ 18) ou "Menor de idade".
-* **Conceitos:** Entrada de dados, variáveis do tipo inteiro e estruturas condicionais (se/senao).
-
-### 2. Cálculo de Potenciação
-* **Descrição:** Algoritmo para resolver a expressão $a^b$, onde $a$ e $b$ são números inteiros e positivos informados pelo usuário.
-* **Conceitos:** Uso de bibliotecas externas (**Matematica**), variáveis reais e inteiras, e lógica de exponenciação.
+* Validar algoritmos através de testes de mesa e execução no **Portugol WebStudio**.
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Portugol (Pseudocódigo).
-* **Plataforma:** Portugol WebStudio.
+* **Ambiente:** Portugol WebStudio.
+* **Bibliotecas:** `Matematica` (utilizada para cálculos de potência).
 
-## 🚀 Como Visualizar
-Os códigos-fonte estão localizados na pasta `/algoritmos`.Para executá-los, basta copiar o conteúdo e colar no [Portugol WebStudio](https://dgadelha.github.io/Portugol-Webstudio/).
+## 📚 Documentação de Conceitos Técnicos
+
+Diferente de um simples código, este projeto explora fundamentos da ciência da computação aplicados à gestão:
+
+### ⚡ Estruturas Condicionais (se/senao)
+* **Aplicação:** Utilizada no Algoritmo de Maioridade.
+* **Lógica:** Permite que o sistema tome decisões automáticas com base em dados de entrada. É o fundamento para regras de negócio e validação de processos em qualquer sistema de TI.
+
+### 🔄 Estruturas de Repetição e Bibliotecas
+* **Aplicação:** Utilizada no Algoritmo de Potenciação.
+* **Lógica:** Demonstra a capacidade de realizar cálculos complexos ($a^b$) de forma eficiente. O uso da biblioteca `Matematica` mostra o entendimento sobre reaproveitamento de código e módulos pré-existentes.
+
+## 📊 Resultados e Validação
+
+Abaixo, as evidências da execução correta dos algoritmos desenvolvidos:
+
+### Verificação de Idade
+![Print do teste de idade](assets/print_idade.png)
+
+### Cálculo de Potência
+![Print do teste de potenciação](assets/print_potencia.png)
+
+## 🏁 Conclusão e Visão de Gestão
+
+Dominar a lógica de programação é o primeiro passo para um Gestor de TI que deseja atuar com **Análise de Dados e BI**. A capacidade de estruturar um algoritmo para resolver um problema matemático é a mesma necessária para criar métricas de negócio complexas ou automações de processos.
+
+Este projeto reforça a minha transição de carreira, provando que a experiência operacional pode ser potencializada com o rigor técnico da programação.
+
+---
+
+## 🗺️ Navegação
+* 🏠 [Início do Perfil](https://github.com/cezarscarvalho)
+* 🐧 [Projeto de Sistemas Operacionais (Linux)](https://github.com/cezarscarvalho/sistemas-operacionais-linux)
+
+## ✉️ Contato
+
+<div>
+  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
