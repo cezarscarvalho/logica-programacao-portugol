@@ -1,1 +1,22 @@
+programa
+{
+	funcao inicio()
+	{
+		// Declaração de variáveis
+		inteiro idade
 
+		// Entrada de dados
+		escreva("Digite a sua idade: ")
+		leia(idade)
+
+		// Lógica condicional para verificar maioridade
+		se (idade >= 18)
+		{
+			escreva("Maior de idade")
+		}
+		senao
+		{
+			escreva("Menor de idade")
+		}
+	}
+}
