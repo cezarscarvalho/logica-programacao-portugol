@@ -1,0 +1,24 @@
+programa
+{
+	// Inclusão da biblioteca matemática para o cálculo de potência
+	inclua biblioteca Matematica --> mat
+
+	funcao inicio()
+	{
+		// Declaração de variáveis
+		real base, expoente, resultado
+
+		// Entrada de dados pelo usuário
+		escreva("Informe o valor para a base (a): ")
+		leia(base)
+
+		escreva("Informe o valor para o expoente (b): ")
+		leia(expoente)
+
+		// Cálculo do exponencial utilizando a biblioteca
+		resultado = mat.potencia(base, expoente)
+
+		// Exibição do resultado final
+		escreva("O resultado de ", base, " elevado a ", expoente, " é: ", resultado)
+	}
+}
