@@ -38,7 +38,11 @@ Abaixo, as evidências da execução correta dos algoritmos desenvolvidos:
 ![Print do teste de idade](img/maior_idade/Teste_Menor_ou_18.jpg)
 
 ### Cálculo de Potência
-![Print do teste de potenciação](assets/print_potencia.png)
+![Print do teste de potenciação](img/potenciacao/Teste_base_2_expo_2.jpg)
+
+![Print do teste de potenciação](img/potenciacao/Teste_base2_expo_3.jpg)
+
+![Print do teste de potenciação](img/potenciacao/Teste_base_2_expo_4.jpg)
 
 ## 🏁 Conclusão e Visão de Gestão
 
