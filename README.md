@@ -49,7 +49,7 @@ Este projeto reforça a minha transição de carreira, provando que a experiênc
 * 🐧 [Projeto de Sistemas Operacionais (Linux)](https://github.com/cezarscarvalho/sistemas-operacionais-linux)
 
   ## 📂 Conteúdo Adicional
-O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/sistemas-operacionais-linux/blob/main/docs/Relat%C3%B3rio%20Acad%C3%AAmico%20-%20Sistemas%20Operacionais.pdf)
+O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/logica-programacao-portugol/blob/main/docs/Relat%C3%B3rio%20Acad%C3%AAmico%20-%20Algoritmos%20e%20Programa%C3%A7%C3%A3o%20Estruturada.doc.pdf)
 
 ## ✉️ Contato
 
