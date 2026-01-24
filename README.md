@@ -31,7 +31,7 @@ Diferente de um simples código, este projeto explora fundamentos da ciência da
 Abaixo, as evidências da execução correta dos algoritmos desenvolvidos:
 
 ### Verificação de Idade
-![Print do teste de idade](assets/print_idade.png)
+![Print do teste de idade](Teste - 18 anos.png)
 
 ### Cálculo de Potência
 ![Print do teste de potenciação](assets/print_potencia.png)
