@@ -71,7 +71,7 @@ O relatório acadêmico completo, com a fundamentação teórica e as conclusõe
   <a href="https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="malito:cezar.souza03@gmail.com">
+  <a href="mailto:SEU_cezar.souza03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 <a href="https://wa.me/5511988541006?text=Ol%C3%A1%2C%20vi%20o%20seu%20portf%C3%B3lio%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20o%20seu%20perfil%20profissional." target="_blank">
