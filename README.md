@@ -61,6 +61,7 @@ Confira os meus outros projetos técnicos desenvolvidos durante a graduação em
 * 📐 [**Lógica e Processos** (Fluxogramas)](https://github.com/cezarscarvalho/logica-fluxograma-processos)
 * 🗄️ [**Modelagem de Dados** (MySQL & DER)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
 * 🌐 [**Redes de Computadores** (Cisco Packet Tracer)](https://github.com/cezarscarvalho/projeto-cisco-packet-tracer)
+* 📊 [**Projeto Agile**](https://github.com/cezarscarvalho/projeto-software-agile)
 
 ## 📂 Conteúdo Adicional
 O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/logica-programacao-portugol/blob/main/docs/Relat%C3%B3rio%20Acad%C3%AAmico%20-%20Algoritmos%20e%20Programa%C3%A7%C3%A3o%20Estruturada.doc.pdf)
