@@ -1,5 +1,3 @@
-# logica-programacao-portugol
-
 # Lógica de Programação e Algoritmos: Fundamentos de Gestão de TI
 
 Este repositório consolida as práticas de lógica estruturada desenvolvidas durante o curso de Gestão de Tecnologia da Informação. O objetivo é demonstrar a capacidade de transpor problemas de negócio para soluções computacionais utilizando pseudocódigo.
@@ -62,6 +60,7 @@ Confira os meus outros projetos técnicos desenvolvidos durante a graduação em
 * 🗄️ [**Modelagem de Dados** (MySQL & DER)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
 * 🌐 [**Redes de Computadores** (Cisco Packet Tracer)](https://github.com/cezarscarvalho/projeto-cisco-packet-tracer)
 * 📊 [**Projeto Agile**](https://github.com/cezarscarvalho/projeto-software-agile)
+* 🌍 [**Projetos Extensionistas**](https://github.com/cezarscarvalho/projetos-extensionistas-faculdade)
 
 ## 📂 Conteúdo Adicional
 O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/logica-programacao-portugol/blob/main/docs/Relat%C3%B3rio%20Acad%C3%AAmico%20-%20Algoritmos%20e%20Programa%C3%A7%C3%A3o%20Estruturada.doc.pdf)
